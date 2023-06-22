@@ -1,0 +1,41 @@
+html {background-color: #F9F8ED}
+
+header {
+    position: absolute;
+    top: 0%;
+    background-color: #33393D;
+    width: 100%;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+.sitename {
+    color: #F9F8ED;
+    margin-top: .5%;
+    margin-left: 2%;
+    margin-right: 3%;
+    margin-bottom: .5%;
+    letter-spacing: normal;
+    float: left;
+    font-weight: bolder;
+    font-size: 4vw;
+}
+
+.sitename a {
+    color: #F9F8ED;
+    text-decoration: none;
+  }
+
+.menuitem {
+    display: inline-block;
+    margin-top: .5%;
+    margin-bottom: .5%
+    margin-left: 0;
+    margin-right: 3%;
+    float: right;
+}
+
+.menuitem a {
+    color: #F9F8ED;
+    text-decoration: none;
+}
